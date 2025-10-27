@@ -107,7 +107,7 @@ Automate ETL pipeline using Power Query or Azure Data Factory.
 
 Include customer segmentation analysis using RFM metrics.
 
-👤 Author
+👤 Author Ankit patidar
 
 Your Name
-📧 [your.email@example.com
+📧 [Apatidar8543@gmail.com
